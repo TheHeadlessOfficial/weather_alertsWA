@@ -25,6 +25,7 @@ Run the file `.conkyrc_waalerts` from terminal (the first time you run this conk
 ## Screenshot
 
 ![](https://github.com/TheHeadlessOfficial/weather_alertsWA/blob/main/.conky/docs/screenshot.png)<br>
+The image shows 3 alerts.
 
 <br>
 <br>
